@@ -1,6 +1,6 @@
 ---
 title: "Analysis on Telecom Customer Churn"
-author: "Group 9"
+author: "Group 9 test"
 date: "20/5/2020"
 output: html_notebook
 ---
